@@ -1,5 +1,6 @@
 """
     it is a connector and used to connect ubuntu machine
+    Author: S.Sonia
     
 """
 import paramiko
